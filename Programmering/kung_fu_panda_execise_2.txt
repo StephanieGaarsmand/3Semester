@@ -1,0 +1,34 @@
+<!Dogstyle html>
+<html>
+<body>
+  <div>
+    <h1 class="Headline"> Exercise 2: Image Searching Website </h1>
+     <hr width=90% ; style=margin-left:0>
+  </div>   
+  <p> Search your image here:
+      <input class="textbox" type:"text" value="Kung Fu panda                x">
+  <input class="searchbutton" type="button" value="Seach">
+  </p><br>
+  <style>
+    .textbox{
+      border: 1px solid blue;
+    }
+  </style>
+  
+<img src="https://m.media-amazon.com/images/M/MV5BOGE1MWRiYzctYjQ3MC00YWI1LTg1MTgtMjUwYzRmMzI0NGIwXkEyXkFqcGdeQXVyMTQ3NDcxMzg4._V1_.jpg" height="200px" alt="Fb Image"><br>
+  <a href="https://en.wikipedia.org/Wiki/Kongfupanda">For more click here</a>
+   <hr width=90% ; style=margin-left:0>
+</Div style="width:300px; float:center;">
+<form action="/action_page.php">
+Feedback form:<br>
+  Name:<br>
+<input type="text" value=""><br>
+ Date:<br>
+<input type="text" value="DD/MM/YYYY"><br>
+Comment:<br>
+  <textarea id="w3review" name="w3rewiew" rows="4" cols="50"> 
+  </textarea>
+  </br></br>
+<input type="button" value="Submit">
+</body>
+</html>
